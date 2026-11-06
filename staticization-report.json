@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "project": "project-13126318",
+  "generated_at": "2026-08-21 14:21:17",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/contact",
+    "/series",
+    "/series/backlight-blade",
+    "/series/cloud-letter",
+    "/series/contract-mage",
+    "/series/dragon-blood",
+    "/series/heartbeat-cafe",
+    "/series/iron-chef",
+    "/series/labyrinth-code",
+    "/series/midnight-store",
+    "/series/red-moon-hunter",
+    "/series/spring-ouverture",
+    "/series/starlight-love",
+    "/series/wuyin-academy"
+  ],
+  "route_count": 16,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
